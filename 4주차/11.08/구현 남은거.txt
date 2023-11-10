@@ -1,0 +1,2 @@
+array로 변환 : rbtree_to_array
+inorder traversal : get_next_node

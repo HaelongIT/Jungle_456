@@ -1,0 +1,2 @@
+I will write this using fputs
+Please make sure it is written well
